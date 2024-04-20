@@ -54,9 +54,3 @@ To use it correctly:
 ## Notes
 
 - Remember, to use geographic coordinates in these python codes, decimal format is required. I made ```convert.py``` precisely for type compatibility issues, as my codes do not accept the sexagesimal system (XXº XX' XX'' N/S/E/W). Then use ```convert.py``` for testing and conversions.
-
-- Feel free to contribute to this project by adding new features, fixing bugs, improving documentation, or addressing issues. Your contributions are highly appreciated!
-
-- If you have any questions or suggestions, please don't hesitate to reach out.
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FGeolocation-geonames.txt-API"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FGeolocation-geonames.txt-API&label=Thanks%20for%20dropping%20in&labelColor=%23000000&countColor=%23FFFFFF" /></a>
